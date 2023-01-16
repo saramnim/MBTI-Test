@@ -1,6 +1,6 @@
 body {
     background-color: #eaf8ff;
-    background-image: : url("../images/result_bg.jpg");
+    background-image: url("../images/result_bg.jpg");
     background-position:top center;
     background-repeat: no-repeat;
 }
@@ -31,7 +31,7 @@ body {
     padding: 30px 10px;
 }
 .result h3 {
-    font-size: 30px
+    font-size: 30px;
     font-weight: 700;
     line-height: 1.4;
     text-align: center;
